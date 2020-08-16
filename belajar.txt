@@ -1,0 +1,3 @@
+Apa saja yang akan saya pelajari.?
+1. Git Hub
+2. Framework Laravel
